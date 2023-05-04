@@ -1,2 +1,2 @@
 # Analysis of Antonio Guterres's Tweets (January 2017 - May 2023)
-This file includes a collection of UN Secretary-General Antonio Guterres's tweets from January 2017 to May 2023. This is part of a bigger project analyzing Guterres's use of Twitter.
+This depository includes several files: (1) A collection of UN Secretary-General Antonio Guterres's tweets from January 2017 to May 2023; (2) An estimate of Guterres's Twitter followers from January 2017 to April 2023; and (3) Twitter follower data for other IO leaders. These files are part of a bigger project analyzing Guterres's use of Twitter as tool of digital diplomacy.
